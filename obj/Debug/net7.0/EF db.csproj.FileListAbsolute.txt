@@ -1,0 +1,43 @@
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\appsettings.json
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\EF db.exe
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\EF db.deps.json
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\EF db.runtimeconfig.json
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\EF db.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\EF db.pdb
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Npgsql.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\beetroot\EF db\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.csproj.AssemblyReference.cache
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.AssemblyInfoInputs.cache
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.AssemblyInfo.cs
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.csproj.CoreCompileInputs.cache
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets\msbuild.EF db.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets\msbuild.build.EF db.props
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EF db.props
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EF db.props
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\scopedcss\bundle\EF db.styles.css
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.csproj.CopyComplete
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.dll
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\refint\EF db.dll
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.pdb
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\EF db.genruntimeconfig.cache
+E:\Projects\beetroot\EF db\obj\Debug\net7.0\ref\EF db.dll
